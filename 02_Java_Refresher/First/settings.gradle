@@ -1,0 +1,3 @@
+rootProject.name = "JavaRefresher"
+include ':app'
+include ':Chapter02'
